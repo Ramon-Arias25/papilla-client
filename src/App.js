@@ -17,8 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>Hola vercel</p>s
       </header>
-      <p>Hola vercel</p>
+
     </div>
   );
 }
