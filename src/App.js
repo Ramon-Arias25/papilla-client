@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <p>hola mundo desde papilla client</p>
+      <p>hola mundo desde papilla client vercel</p>
     </div>
   );
 }
